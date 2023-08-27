@@ -1,0 +1,17 @@
+h1 {/*Title settings */
+    Font-size: 400%; 
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2 {/*Sub-Title settings */
+    Font-size: 200%;  
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p {/*Text settings */
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body {/*for background color */
+    Background-color: rgb(125, 192, 183);  
+}
